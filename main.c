@@ -1,5 +1,4 @@
 #include "monty.h"
-
 global_t vglo;
 
 /**
