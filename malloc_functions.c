@@ -1,8 +1,11 @@
 #include "monty.h"
 /**
  * _calloc - concatenate tw strings specially
+ *
  * @nmemb: number of elements
+ *
  * @size: type of elements
+ *
  * Return: nothing
  */
 void *_calloc(unsigned int nmemb, unsigned int size)
