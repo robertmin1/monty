@@ -19,6 +19,7 @@ void free_vglo(void)
  * @fd: file descriptor
  * Return: no return
  */
+
 void start_vglo(FILE *fd)
 {
 	vglo.lifo = 1;
