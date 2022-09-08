@@ -13,7 +13,6 @@ void free_vglo(void)
 	free(vglo.buffer);
 	fclose(vglo.fd);
 }
-
 /**
  * start_vglo - initializes the global variables
  *
